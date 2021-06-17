@@ -1,7 +1,11 @@
 # LavaLink-Host
-Free Lavalink host by darren
+Feel free to use it, don't abuse it tho....
 
-
-IP: fi1.hexit.cc
-Port: 25646
-Password: darrenlikescookiesbetterthananyoneelse
+```js
+Lavalink: {
+    id: "Main",
+    host: "lavalink.cynathans.com",
+    port: 25541,
+    pass: "darrenlikescookiesbetterthananyoneelse", 
+  },
+```
