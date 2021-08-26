@@ -1,22 +1,31 @@
 # LavaLink-Host
 Feel free to use it, don't abuse it tho....
 
-## Finland
+// Düsseldorf
 ```js
 Lavalink: {
     id: "Main",
-    host: "lavalink.cynathans.com",
-    port: 25541,
-    pass: "darrenlikescookiesbetterthananyoneelse", 
+    host: "lavalink.darrennathanael.com",
+    port: 2095,
+    pass: "whatwasthelastingyousaid",
   },
 ```
 
-## Global
+// Finland
 ```js
 Lavalink: {
-  id: "Main",
-  host: "lava.link", 
-  port: 80,
-  pass: "youshallnotpass", 
-},
+    id: "Main",
+    host: "fn.darrennathanael.com",
+    port: 2095,
+    pass: "whatwasthelastingyousaid",
+  },
 ```
+// Nuremberg
+```js
+Lavalink: {
+    id: "Main",
+    host: "nuremberg.darrennathanael.com",
+    port: 2095,
+    pass: "whatwasthelastingyousaid",
+  },
+```js
