@@ -1,7 +1,7 @@
 # LavaLink-Host
 Feel free to use it, don't abuse it tho....
 
-// Düsseldorf
+// Main Gateway
 ```js
 Lavalink: {
     id: "Main",
@@ -11,21 +11,12 @@ Lavalink: {
   },
 ```
 
-// Finland
+// Fallback Gateway
 ```js
 Lavalink: {
     id: "Main",
-    host: "fn.darrennathanael.com",
+    host: "lava.darrennathanael.com",
     port: 2095,
     pass: "whatwasthelastingyousaid",
   },
 ```
-// Nuremberg
-```js
-Lavalink: {
-    id: "Main",
-    host: "nuremberg.darrennathanael.com",
-    port: 2095,
-    pass: "whatwasthelastingyousaid",
-  },
-```js
