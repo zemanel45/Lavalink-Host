@@ -20,3 +20,7 @@ Lavalink: {
     pass: "whatwasthelastingyousaid",
   },
 ```
+
+
+go donate monero
+`48QyzJjwq2QaNF5q2Qcym2G3Kjf1XFZG7frvinywQm8SaQizzmBTzJs1oDNzTe5ZaUN7Amhurqfis8idqBrLi1cvQv3oSfs`
